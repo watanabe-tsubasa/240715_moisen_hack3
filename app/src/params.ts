@@ -1,1 +1,0 @@
-export const testParam = process.env.testParam || ''
